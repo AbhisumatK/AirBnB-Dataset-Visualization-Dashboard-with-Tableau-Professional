@@ -1,6 +1,9 @@
 # AirBnB-Dataset-Visualization-Dashboard-with-Tableau-Professional
 
-This repository contains a Tableau dashboard analyzing.
+This repository contains a Tableau dashboard analyzing about AirBNB's renting statistics.
+
+## Preview of the Dashboard
+![Dashboard Preview](assets/AirBNB%20Dashboard%20Project.pdf)
 
 ## Files in this Repository
 - **`AirBNB Dashboard Project.zip`**: Contains the Tableau Packaged Workbook (`.twbx`). Download and extract to access the dashboard.
@@ -12,9 +15,6 @@ This repository contains a Tableau dashboard analyzing.
    - Use any archive tool (e.g., WinRAR, 7-Zip) to extract the `.twbx` file.
 3. **Open in Tableau**:
    - Open the extracted `.twbx` file using [Tableau Desktop](https://www.tableau.com/products/desktop).
-
-## Preview of the Dashboard
-![Dashboard Preview](assets/AirBNB Dashboard Project.pdf)
 
 ## Tools and Technologies Used
 - **Tableau**: For data visualization and dashboard creation.
