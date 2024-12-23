@@ -14,7 +14,7 @@ This repository contains a Tableau dashboard analyzing.
    - Open the extracted `.twbx` file using [Tableau Desktop](https://www.tableau.com/products/desktop).
 
 ## Preview of the Dashboard
-![Dashboard Preview](assets/dashboard_image.png)
+![Dashboard Preview](assets/AirBNB Dashboard Project.pdf)
 
 ## Tools and Technologies Used
 - **Tableau**: For data visualization and dashboard creation.
