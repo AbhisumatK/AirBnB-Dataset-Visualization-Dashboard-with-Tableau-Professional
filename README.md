@@ -3,7 +3,7 @@
 This repository contains a Tableau dashboard analyzing about AirBNB's renting statistics.
 
 ## Preview of the Dashboard
-![Dashboard Preview](assets/AirBNB%20Dashboard%20Project.pdf)
+![Dashboard Preview](AirBNB%20Dashboard%20Project.pdf)
 
 ## Files in this Repository
 - **`AirBNB Dashboard Project.zip`**: Contains the Tableau Packaged Workbook (`.twbx`). Download and extract to access the dashboard.
