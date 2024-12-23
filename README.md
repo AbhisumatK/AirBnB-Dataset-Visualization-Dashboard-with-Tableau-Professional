@@ -10,7 +10,7 @@ This repository contains a Tableau dashboard analyzing about AirBNB's renting st
 
 ## How to Use
 1. **Download the ZIP File**:
-   - Click on the `AirBNB Dashboard Project.zip` file in this repository and download it.
+   - Click on the `AirBNB Dashboard Project.zip` file in this repository and click on the `view raw` button to download it.
 2. **Extract the ZIP**:
    - Use any archive tool (e.g., WinRAR, 7-Zip) to extract the `.twbx` file.
 3. **Open in Tableau**:
